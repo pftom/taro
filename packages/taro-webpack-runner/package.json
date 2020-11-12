@@ -36,7 +36,7 @@
     "@tarojs/runtime": "3.0.16",
     "@tarojs/shared": "3.0.16",
     "@tarojs/taro-loader": "3.0.16",
-    "autoprefixer": "9.7.4",
+    "autoprefixer": "9.8.6",
     "babel-loader": "8.0.6",
     "copy-webpack-plugin": "5.1.1",
     "css-loader": "3.4.2",
