@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/NervJS/taro#readme",
   "dependencies": {
-    "@babel/core": "7.11.1",
+    "@babel/core": "7.12.3",
     "@tarojs/helper": "3.0.16",
     "@tarojs/runner-utils": "3.0.16",
     "@tarojs/runtime": "3.0.16",
