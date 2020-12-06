@@ -68,7 +68,7 @@
     "babel-types": "^6.26.0",
     "babylon": "^6.18.0",
     "better-babel-generator": "^6.26.1",
-    "cli-highlight": "^2.1.4",
+    "cli-highlight": "^2.1.6",
     "cross-spawn": "^7.0.3",
     "css-to-react-native-transform": "^1.4.0",
     "css-what": "^3.2.0",
