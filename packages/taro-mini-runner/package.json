@@ -45,7 +45,7 @@
     "@tarojs/taro-loader": "3.0.16",
     "babel-loader": "8.0.6",
     "babel-types": "^6.26.0",
-    "copy-webpack-plugin": "^5.0.3",
+    "copy-webpack-plugin": "^6.0.0",
     "css": "2.2.4",
     "css-loader": "^3.0.0",
     "css-what": "3.3.0",
@@ -78,7 +78,7 @@
     "terser-webpack-plugin": "^3.0.5",
     "url-loader": "^4.1.0",
     "vm2": "^3.8.4",
-    "webpack": "4.42.0",
+    "webpack": "5.0.0",
     "webpack-chain": "4.9.0",
     "webpack-format-messages": "^2.0.5",
     "yauzl": "2.10.0"
