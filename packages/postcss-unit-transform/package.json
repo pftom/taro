@@ -6,6 +6,6 @@
   "author": "luckyadam",
   "license": "MIT",
   "dependencies": {
-    "postcss": "^6.0.21"
+    "postcss": "^8.2.13"
   }
 }
