@@ -25,6 +25,6 @@
   "dependencies": {
     "@types/jest": "^26.0.14",
     "query-string": "^6.1.0",
-    "react-navigation": "^2.9.0"
+    "react-navigation": "^3.0.0"
   }
 }
