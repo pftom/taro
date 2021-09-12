@@ -51,7 +51,7 @@
     "lodash": "4.17.20",
     "mini-css-extract-plugin": "0.9.0",
     "open": "7.0.2",
-    "ora": "4.0.3",
+    "ora": "6.0.0",
     "postcss-loader": "3.0.0",
     "postcss-plugin-constparse": "3.0.16",
     "postcss-pxtransform": "3.0.16",
@@ -66,7 +66,7 @@
     "url-loader": "^4.1.0",
     "webpack": "4.41.6",
     "webpack-chain": "4.9.0",
-    "webpack-dev-server": "3.11.0",
+    "webpack-dev-server": "4.0.0",
     "webpack-format-messages": "2.0.3"
   },
   "devDependencies": {
