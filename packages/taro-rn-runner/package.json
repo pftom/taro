@@ -23,7 +23,7 @@
     "cross-spawn": "^5.0.1",
     "fs-extra": "^3.0.1",
     "indent-string": "^3.0.0",
-    "inquirer": "^3.0.1",
+    "inquirer": "^7.0.5",
     "lodash": "^4.17.4",
     "match-require": "^2.0.0",
     "minimist": "^1.2.0",
@@ -31,6 +31,6 @@
     "progress": "^2.0.0",
     "qrcode-terminal": "^0.11.0",
     "rimraf": "^2.6.1",
-    "xdl": "48.1.4"
+    "xdl": "59.0.26"
   }
 }
