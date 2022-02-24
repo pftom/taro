@@ -9,6 +9,11 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@tarojs/runtime@3.0.16":
+  version "3.0.16"
+  resolved "https://registry.yarnpkg.com/@tarojs/runtime/-/runtime-3.0.16.tgz#3bb31fe4317ebc0e920c1aa48759fc35715e93ae"
+  integrity sha512-iksPOzFwctdQC/BvOAlS6APUpNFY4iUbZ98ZC6rhl91QIWjJKX21tzBQ5mP09V3qo7HpkdSwtpsGPkehUcHqSw==
+
 "@types/history@^4.7.5":
   version "4.7.8"
   resolved "https://registry.yarnpkg.com/@types/history/-/history-4.7.8.tgz#49348387983075705fe8f4e02fb67f7daaec4934"
@@ -80,10 +85,10 @@ universal-router@^8.3.0:
   dependencies:
     path-to-regexp "^3.1.0"
 
-url-parse@^1.4.7:
-  version "1.4.7"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.7.tgz#a8a83535e8c00a316e403a5db4ac1b9b853ae278"
-  integrity sha512-d3uaVyzDB9tQoSXFvuSUNFibTd9zxd2bkVrDRvF5TmvWWQwqE4lgYJ5m+x1DbecWkw+LK4RNl2CU1hHuOKPVlg==
+url-parse@^1.5.7:
+  version "1.5.10"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.10.tgz#9d3c2f736c1d75dd3bd2be507dcc111f1e2ea9c1"
+  integrity sha512-WypcfiRhfeUP9vvF0j6rw0J3hrWrw6iZv3+22h6iRMJ/8z1Tj6XfLP4DsUix5MhMPnXpiHDoKyoZ/bdCkwBCiQ==
   dependencies:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
