@@ -94,7 +94,7 @@
     "mem-fs": "^1.1.3",
     "mem-fs-editor": "^4.0.0",
     "minimatch": "^3.0.4",
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "npm-check": "^5.9.0",
     "ora": "^2.0.0",
     "postcss": "^6.0.22",
