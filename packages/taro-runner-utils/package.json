@@ -22,7 +22,7 @@
   "author": "garfield550",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "7.11.1",
+    "@babel/core": "7.23.2",
     "@tarojs/helper": "3.0.16",
     "chalk": "^3.0.0",
     "fs-extra": "^8.1.0",
