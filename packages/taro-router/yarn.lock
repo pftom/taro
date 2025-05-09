@@ -9,6 +9,11 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@tarojs/runtime@3.0.16":
+  version "3.0.16"
+  resolved "https://registry.yarnpkg.com/@tarojs/runtime/-/runtime-3.0.16.tgz#3bb31fe4317ebc0e920c1aa48759fc35715e93ae"
+  integrity sha512-iksPOzFwctdQC/BvOAlS6APUpNFY4iUbZ98ZC6rhl91QIWjJKX21tzBQ5mP09V3qo7HpkdSwtpsGPkehUcHqSw==
+
 "@types/history@^4.7.5":
   version "4.7.8"
   resolved "https://registry.yarnpkg.com/@types/history/-/history-4.7.8.tgz#49348387983075705fe8f4e02fb67f7daaec4934"
@@ -37,11 +42,6 @@ loose-envify@^1.2.0:
   integrity sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
-
-path-to-regexp@^3.1.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-3.2.0.tgz#fa7877ecbc495c601907562222453c43cc204a5f"
-  integrity sha512-jczvQbCUS7XmS7o+y1aEO9OBVFeZBQ1MDSEqmO7xSoPgOPoowY/SxLpZ6Vh97/8qHZOteiCKb7gkG9gA2ZUxJA==
 
 querystringify@^2.1.1:
   version "2.2.0"
@@ -73,12 +73,10 @@ tiny-warning@^1.0.0:
   resolved "https://registry.yarnpkg.com/tiny-warning/-/tiny-warning-1.0.3.tgz#94a30db453df4c643d0fd566060d60a875d84754"
   integrity sha512-lBN9zLN/oAf68o3zNXYrdCt1kP8WsiGW8Oo2ka41b2IM5JL/S1CTyX1rW0mb/zSuJun0ZUrDxx4sqvYS2FWzPA==
 
-universal-router@^8.3.0:
-  version "8.3.0"
-  resolved "https://registry.yarnpkg.com/universal-router/-/universal-router-8.3.0.tgz#533bce135d7b1abf591421c5d2028d54407a34a0"
-  integrity sha512-cBkihRoHvRQAjdUnDE1GGuuw/TPAIi8z2pEsSmUVAWLeZdgjHzzAb1+0VOO6NvBOvySItOTQikzaGlRxRdJBnA==
-  dependencies:
-    path-to-regexp "^3.1.0"
+universal-router@^10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/universal-router/-/universal-router-10.0.0.tgz#3570274b392ca6890a2af4a4693824aff70a371d"
+  integrity sha512-0PQtaTEr39V3zBVRdqrdGzZrV3cC0HWSa1t9BpQlh2ZKRQVJb6IablVWpIthvpyGDJNWfKhaX2bRPUhnrU/uVQ==
 
 url-parse@^1.4.7:
   version "1.4.7"

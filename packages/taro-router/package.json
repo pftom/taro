@@ -29,7 +29,7 @@
   "dependencies": {
     "@tarojs/runtime": "3.0.16",
     "history": "^4.10.1",
-    "universal-router": "^8.3.0",
+    "universal-router": "^10.0.0",
     "url-parse": "^1.4.7"
   },
   "devDependencies": {
